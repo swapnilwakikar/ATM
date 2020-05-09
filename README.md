@@ -1,5 +1,7 @@
 # ATM
+
 Python ATM code for Withdraw amount, Check account balance and Deposit amount
+
 print("Welcome to Citi Bank ATM")
 restart=("Y")
 chances=3
